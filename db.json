@@ -1,0 +1,51 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Actualizado",
+      "empresa": "Código con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "E commerce",
+      "id": 1
+    },
+    {
+      "nombre": "Josue",
+      "empresa": "Código con Juan",
+      "email": "josue@correo.com",
+      "telefono": "31983913",
+      "notas": "Correo nuevo",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Código con Juan"
+    },
+    {
+      "nombre": "Pedro Actualizado",
+      "empresa": "Código con Juan",
+      "email": "pedro@juan.com",
+      "telefono": "1398198938",
+      "notas": "No duerme bien",
+      "id": 5
+    },
+    {
+      "nombre": "Juan Actualizado",
+      "empresa": "codigo con juan",
+      "email": "correo@corre.com",
+      "telefono": "13131313",
+      "notas": "Cliente desea unicomercce",
+      "id": 6
+    },
+    {
+      "nombre": "Lolo",
+      "empresa": "Lolo",
+      "email": "correo@correo.com",
+      "telefono": "223555656",
+      "notas": "Hacer instagram nuevo",
+      "id": 8
+    }
+  ]
+}
